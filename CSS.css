@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    background-image: url("resource/tomoko.jpg");
+}
+
+h1{
+    color: darkorange;
+    width: fit-content;
+}
+
+h2{
+    color: black;
+}
+
+h3{
+    color: blue;
+}
+#first-para{
+    color: darkgreen;
+
+}
+
